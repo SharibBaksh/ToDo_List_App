@@ -13,5 +13,7 @@ A simple and responsive To-Do List web app built using **HTML, CSS, and JavaScri
 ### Tech Stack
 HTML | CSS | JavaScript (Vanilla)
 
+![ToDo List App](https://github.com/SharibBaksh/ToDo_List_App/blob/e3f00edb8fe333101365cc4b0ea4f39ecae85634/Screenshot%20(40).png)
+
 ### Author
 **Sharib Baksh**
